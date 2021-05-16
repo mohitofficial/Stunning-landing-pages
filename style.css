@@ -37,13 +37,6 @@ a:hover{
 
 }
 
-#active{
-    color:black;
-    text-indent: 20px;
-    border-bottom: 4px solid blue;
-    
-}
-
 #new-btn{
       border:0;
     padding-left: 25px;
